@@ -9,4 +9,4 @@ Key insights:
 - Rising interest rates often coincide with reduced spending growth
 - Inflation and spending growth show a generally negative relationship
 
-[View interactive dashboard on Tableau Public](PASTE_LINK_HERE)
+[View interactive dashboard on Tableau Public](https://public.tableau.com/views/ConsumerSpendingInflationandInterestRatesMonthly/ConsumerSpendingInflationandInterestRates?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
