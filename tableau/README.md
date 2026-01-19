@@ -2,7 +2,7 @@
 
 The dashboard below explores the relationship between consumer spending, inflation, and interest rates using monthly U.S. economic data.
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](dashboard_screenshots/dashboard_overview.png)
 
 Key insights:
 - Consumer spending tends to slow during periods of higher inflation
